@@ -1,3 +1,4 @@
 <?php
 echo "primer linea de codigo de prueba 1";
+echo "segunda linea de codigo de prueba 1";
 php>
