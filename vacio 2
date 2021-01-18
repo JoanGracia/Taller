@@ -1,1 +1,3 @@
-
+<?php
+echo "Primer linea de codigo del archivo vacio 2";
+php>
