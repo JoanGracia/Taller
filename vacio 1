@@ -1,1 +1,3 @@
-
+<?php
+echo "primer linea de codigo de vacio 1";
+php>
